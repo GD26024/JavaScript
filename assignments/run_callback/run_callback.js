@@ -9,7 +9,3 @@ return cb(c)
 
 module.exports = RunCallback;
 
-const obj={
-    name:"ganesh",
-    surename:"Deshmukh"
-}
