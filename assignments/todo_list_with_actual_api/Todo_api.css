@@ -1,0 +1,25 @@
+body{
+    background:#050001;
+    margin-top:10px;
+    
+    text-align: center;
+    border: 2px solid white;
+}
+#todo{
+    font-size: 25px;
+    color: #4d0707;
+    background: #EBE8E7;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#container{
+    color:#FFFFFF;
+    text-align: left;
+    font-size:20px;
+    font-weight: bold;
+    padding:0 40px;
+    border:3px solid white;
+    width: 60%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
